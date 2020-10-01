@@ -16,7 +16,7 @@ Features a serem automatizada:
 ### Instalação
 Clonar o projeto do repositório para ter acesso. Executar o comando no terminal ou na IDE:
 ```sh
-$ git clone linkDoProjeto
+$ git clone https://github.com/LucasBonanno/teste_inm.git
 ```
 **Observações:**
  - É necessário ter o plugin do Cucumber intalado na IDE
