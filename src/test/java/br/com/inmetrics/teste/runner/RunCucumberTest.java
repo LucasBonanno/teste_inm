@@ -10,7 +10,7 @@ import io.cucumber.junit.CucumberOptions.SnippetType;
 @CucumberOptions(
 		features = "./src/test/resources/features/",
 		glue = "br.com.inmetrics.teste",
-		tags = {"@Login"},
+		tags = {""},
 		plugin = {"pretty", "html:evidences/report-html"},
 		monochrome = false,
 		snippets = SnippetType.CAMELCASE,

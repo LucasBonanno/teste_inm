@@ -32,6 +32,6 @@ public class LoginStep {
 
 	@Entao("sera possivel logar sistema com usuario {string} e senha {string} cadastrado")
 	public void seraPossivelLogarSistemaComUsuarioESenhaCadastrado(String usuario, String senha) {
-		login.preenchercadastro(usuario, senha);
+		login.logar(usuario, senha);
 	}
 }
